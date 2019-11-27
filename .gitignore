@@ -1,2 +1,4 @@
 # Ignore cuDNN
 cudnn-digits/cudnn*
+
+cuda-torch/cuda_v10.0/.Dockerfile.swp
